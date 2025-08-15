@@ -1,0 +1,13 @@
+﻿  dllmain.cpp
+C:\Users\aiden\source\repos\hack\agentdll\dllmain.cpp(76,50): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\aiden\source\repos\hack\agentdll\dllmain.cpp(124,33): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\aiden\source\repos\hack\agentdll\dllmain.cpp(152,32): warning C4477: 'sprintf_s' : format string '%llX' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'void *'
+C:\Users\aiden\source\repos\hack\agentdll\dllmain.cpp(153,45): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\aiden\source\repos\hack\agentdll\dllmain.cpp(180,45): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\aiden\source\repos\hack\agentdll\dllmain.cpp(193,45): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Generating code
+  2 of 95 functions ( 2.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  agentdll.vcxproj -> C:\Users\aiden\source\repos\hack\x64\Release\agentdll.dll
