@@ -5,7 +5,7 @@ This project is a small proof-of-concept that demonstrates:
 - Setting breakpoints via a vectored exception handler (VEH)
 - Reading values from the stack without stepping through instructions
 - Communicating between the injected DLL and an external controller using a named pipe
-- 
+
 <img width="1230" height="616" alt="hookveh" src="https://github.com/user-attachments/assets/03bbc2a2-608b-4d57-868f-993077eaa997" />
 
 ## Overview
